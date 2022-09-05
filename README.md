@@ -14,7 +14,11 @@
 - 📄 Know about my experiences [https://docs.google.com/document/d/1mEpAj_qBhbZbRi0BeZLZdriZ9epln6t18eJ9MJlIBkY/edit?usp=sharing](https://docs.google.com/document/d/1mEpAj_qBhbZbRi0BeZLZdriZ9epln6t18eJ9MJlIBkY/edit?usp=sharing)
 
 <h3 align="center">Connect with me:</h3>
-[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/mirhussainmurtaza/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mirhussainmurtaza)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/_mir_hussain_)
+<p align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/programmernizam/">
+  <img src="https://i.ibb.co/R690v2t/Linkedin.png" alt="linkedin_logo"/>
+  </a>
+</p>
 
 
 <h3 align="center">:computer: Technologies that I know</h3>
