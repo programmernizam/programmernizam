@@ -21,9 +21,9 @@
 </p>
 
 
-<h3 align="left">:computer: Technologies that I know</h3>
+<h3 align="center">:computer: Technologies that I know</h3>
 <br/>
-<p align="left">
+<p align="center">
 <img src="https://i.ibb.co/c10Nygh/HTML.png" alt="html_logo"/>
 <img src="https://i.ibb.co/pvVvrJ0/css.png" alt="css_logo"/>
 <img src="https://i.ibb.co/cJSjQ4b/Java-Script.png" alt="javascript_logo"/>
