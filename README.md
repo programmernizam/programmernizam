@@ -15,7 +15,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/programmernizam/">
+  <a target="blank" href="https://www.linkedin.com/in/programmernizam/">
   <img src="https://i.ibb.co/R690v2t/Linkedin.png" alt="linkedin_logo"/>
   </a>
 </p>
