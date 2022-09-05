@@ -13,12 +13,8 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1mEpAj_qBhbZbRi0BeZLZdriZ9epln6t18eJ9MJlIBkY/edit?usp=sharing](https://docs.google.com/document/d/1mEpAj_qBhbZbRi0BeZLZdriZ9epln6t18eJ9MJlIBkY/edit?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/programmernizam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="programmernizam" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md-nizam-uddin-235a93201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-nizam-uddin-235a93201" height="30" width="40" /></a>
-<a href="https://fb.com/programmernizam1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="programmernizam1" height="30" width="40" /></a>
-</p>
+<h3 align="center">Connect with me:</h3>
+[<p align="center"><img height="75" src="https://i.ibb.co/R690v2t/Linkedin.png">](https://www.linkedin.com/in/programmernizam/)[<img height="75" src="https://i.ibb.co/0s7dJ7y/Facebook.png">](https://www.facebook.com/programmerNizam1)[<img height="75" src="https://i.ibb.co/zrSGqN6/Twitter.png"> </p>](https://twitter.com/programmerNizam)
 
 
 <h3 align="center">:computer: Technologies that I know</h3>
