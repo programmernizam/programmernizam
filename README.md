@@ -40,7 +40,6 @@
 <img src="https://i.ibb.co/HGYHst5/express.png" alt="express_logo"/>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=programmernizam&show_icons=true&locale=en&layout=compact" alt="programmernizam" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=programmernizam&show_icons=true&locale=en" alt="programmernizam" /></p>
+<h3 align="center">:chart_with_upwards_trend: Current Stats</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=programmernizam&" alt="programmernizam" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=programmernizam&background=0D1117" alt="programmernizam" /></p>
