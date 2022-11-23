@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **mdnizam12109@gmail.com or info.mdnizamuddin1@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1mEpAj_qBhbZbRi0BeZLZdriZ9epln6t18eJ9MJlIBkY/edit?usp=sharing](https://docs.google.com/document/d/1mEpAj_qBhbZbRi0BeZLZdriZ9epln6t18eJ9MJlIBkY/edit?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1yjURwkV-6KZodUEyYxuv7E9NvqU8_pHg/view?usp=share_link](https://drive.google.com/file/d/1yjURwkV-6KZodUEyYxuv7E9NvqU8_pHg/view?usp=share_link)
 
 
 <h3 align="center">:computer: Technologies that I know</h3>
