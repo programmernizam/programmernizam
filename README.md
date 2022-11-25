@@ -14,7 +14,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on MERN Stack Projects [Equipo-Cars](https://equipo-cars.web.app/)
+- 🔭 I’m currently working on MERN Stack Projects
 
 - 🌱 I’m currently learning **Advance MERN Stack**
 
