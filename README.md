@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nizam</h1>
-<h3 align="center">A passionate Junior MERN Stack Developer from Bangladesh</h3>
+<h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
 
 <h3 align="center">Stay With Me:</h3>
 <p align="center">
