@@ -12,6 +12,9 @@
   <a target="blank" href="https://twitter.com/programmerNizam">
   <img alt="Static Badge" src="https://img.shields.io/badge/TWITTER-%231D9BF0?style=for-the-badge&logo=TWITTER&logoColor=%23FFF" alt="twitter_logo" style="width:150px;height:40px">
   </a>
+  <a target="blank" href="https://www.instagram.com/programmernizam/">
+  <img alt="Static Badge" src="https://img.shields.io/badge/INSTAGRAM-%23E4405F?style=for-the-badge&logo=INSTAGRAM&logoColor=%23FFF" alt="instagram_logo" style="width:150px;height:40px">
+  </a>
 </p>
 
 - 🔭 I’m currently working on MERN Stack Projects
