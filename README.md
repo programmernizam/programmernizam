@@ -1,5 +1,5 @@
 <img src="https://i.ibb.co/r0D1V30/github-banner.jpg" alt="github-banner" border="0">
-<h1 align="left">Hi 👋, I'm Nizam Uddin</h1>
+<h1 align="center">Hi 👋, I'm MD. Nizam Uddin</h1>
 <h3 align="center">Stay With Me:</h3>
 <p align="center">
   <a target="blank" href="https://www.linkedin.com/in/programmernizam/">
