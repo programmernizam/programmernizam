@@ -25,9 +25,9 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1yjURwkV-6KZodUEyYxuv7E9NvqU8_pHg/view?usp=share_link](https://drive.google.com/file/d/1yjURwkV-6KZodUEyYxuv7E9NvqU8_pHg/view?usp=share_link)
 
 
-<h3 align="center">:computer: Technologies that I know</h3>
+<h3 align="left">:computer: Technologies that I know</h3>
 <br/>
-<p align="center">
+<p align="left">
 <img src="https://i.ibb.co/c10Nygh/HTML.png" alt="html_logo"/>
 <img src="https://i.ibb.co/pvVvrJ0/css.png" alt="css_logo"/>
 <img src="https://i.ibb.co/cJSjQ4b/Java-Script.png" alt="javascript_logo"/>
@@ -38,15 +38,11 @@
 <img src="https://i.ibb.co/HGYHst5/express.png" alt="express_logo"/>
 </p>
 
-<h3 align="center">:chart_with_upwards_trend: Current Stats</h3>
+<h3 align="left">:chart_with_upwards_trend: Current Stats</h3>
 
-<p align="center">
-   <table>
-       <tr>
-       <td colspan="2"><img alt="progmamun :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmernizam&langs_count=12&theme=blue-green&layout=compact&hide=html,CSS,SCSS"></td>
-        <td colspan="2" align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=programmernizam&theme=blue-green&hide_border=true"></td>
-     </tr> 
-   </table>
+<p align="left">
+  <img alt="progmamun :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmernizam&langs_count=12&theme=blue-green&layout=compact&hide=html,CSS,SCSS">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=programmernizam&theme=blue-green&hide_border=true"></td>
 </p>
 
 
