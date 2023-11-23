@@ -4,11 +4,10 @@
 <h3 align="center">Stay With Me:</h3>
 <p align="center">
   <a target="blank" href="https://www.linkedin.com/in/programmernizam/">
-  <img src="[https://i.ibb.co/R690v2t/Linkedin.png](https://img.shields.io/badge/FACEBOOK-1877F2?logo=facebook
-)" alt="linkedin_logo"/>
+  <img src="" alt="linkedin_logo"/>
   </a>
   <a target="blank" href="https://www.facebook.com/programmerNizam1">
-  <img src="https://i.ibb.co/0s7dJ7y/Facebook.png" alt="facebook_logo"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/FACEBOOK-1877F2?logo=facebook">
   </a>
   <a target="blank" href="https://twitter.com/programmerNizam">
   <img src="https://i.ibb.co/zrSGqN6/Twitter.png" alt="twitter_logo"/>
