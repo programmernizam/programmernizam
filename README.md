@@ -42,6 +42,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/MONGODB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=%23fff" alt="mongodb_logo">
   <img alt="Static Badge" src="https://img.shields.io/badge/WORDPRESS-%2321759B?style=for-the-badge&logo=WORDPRESS&logoColor=%23fff" alt="wordpress_logo">
   <img alt="Static Badge" src="https://img.shields.io/badge/ELEMENTOR-%2392003B?style=for-the-badge&logo=ELEMENTOR&logoColor=%23fff" alt="elementor_logo">
+  <img alt="Static Badge" src="https://img.shields.io/badge/JSON%20WEB%20TOKENS-%23000000?style=for-the-badge&logo=JSON%20WEB%20TOKENS&logoColor=%23fff" alt="jwt_logo">
 </p>
 
 <h3 align="left">:chart_with_upwards_trend: Current Stats</h3>
