@@ -32,6 +32,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=%23fff" alt="css_logo">
   <img alt="Static Badge" src="https://img.shields.io/badge/BOOTSTRAP-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=%23fff" alt="bootstrap_logo">
   <img alt="Static Badge" src="https://img.shields.io/badge/TAILWIND%20CSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=%23fff" alt="tailwind_logo">
+  <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E?style=for-the-badge&logo=JAVASCRIPT&logoColor=%23fff" atl="javascript_logo">
 <img src="https://i.ibb.co/Cv5J0c3/tailwind.png" alt="tailwind_logo"/>
 <img src="https://i.ibb.co/txRSC8X/react.png" alt="react_logo"/>
 <img src="https://i.ibb.co/w0H6kDV/node.png" alt="node_logo"/>
