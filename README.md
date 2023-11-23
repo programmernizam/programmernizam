@@ -28,7 +28,7 @@
 <h3 align="left">:computer: Technologies that I know</h3>
 <br/>
 <p align="left">
-<img src="https://i.ibb.co/c10Nygh/HTML.png" alt="html_logo"/>
+<img alt="Static Badge" src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23fff" alt="html_logo"/>
 <img src="https://i.ibb.co/pvVvrJ0/css.png" alt="css_logo"/>
 <img src="https://i.ibb.co/cJSjQ4b/Java-Script.png" alt="javascript_logo"/>
 <img src="https://i.ibb.co/j6kmtND/Bootsrap.png" alt="bootstrap_logo"/>
