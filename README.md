@@ -7,7 +7,7 @@
   <img src="" alt="linkedin_logo"/>
   </a>
   <a target="blank" href="https://www.facebook.com/programmerNizam1">
-  <img alt="Static Badge" src="https://img.shields.io/badge/FACEBOOK-1877F2?logo=facebook">
+  <img alt="Static Badge" src="https://img.shields.io/badge/FACEBOOK-1877F2?logo=facebook" width:"200px">
   </a>
   <a target="blank" href="https://twitter.com/programmerNizam">
   <img src="https://i.ibb.co/zrSGqN6/Twitter.png" alt="twitter_logo"/>
