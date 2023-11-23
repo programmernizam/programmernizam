@@ -38,10 +38,8 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/NEXT%20JS-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=%23fff" alt="nextjs_logo">
   <img alt="Static Badge" src="https://img.shields.io/badge/REDUX-%23764ABC?style=for-the-badge&logo=REDUX&logoColor=%23fff" alt="redux_logo">
   <img alt="Static Badge" src="https://img.shields.io/badge/NODE%20JS-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=%23fff" alt="node_logo">
-<img src="https://i.ibb.co/Cv5J0c3/tailwind.png" alt="tailwind_logo"/>
-<img src="https://i.ibb.co/txRSC8X/react.png" alt="react_logo"/>
-<img src="https://i.ibb.co/w0H6kDV/node.png" alt="node_logo"/>
-<img src="https://i.ibb.co/HGYHst5/express.png" alt="express_logo"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/EXPRESS%20JS-%23000000?style=for-the-badge&logo=EXPRESS&logoColor=%23fff" alt="express_logo">
+
 </p>
 
 <h3 align="left">:chart_with_upwards_trend: Current Stats</h3>
