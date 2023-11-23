@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nizam</h1>
-<img src="https://ibb.co/MSF3mfS.png" alt="profile_cover"/>
+<img src="https://i.ibb.co/r0D1V30/github-banner.jpg" alt="github-banner" border="0">
 <h3 align="center">Stay With Me:</h3>
 <p align="center">
   <a target="blank" href="https://www.linkedin.com/in/programmernizam/">
