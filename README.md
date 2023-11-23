@@ -55,7 +55,7 @@
   <table>
     <tr>
       <td><img alt="programmerNizam" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmernizam&langs_count=12&theme=holi&layout=compact"></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com?user=programmernizam&theme=holi&hide_border=true" alt="programmerNizam"/></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com?user=programmernizam&theme=skyblue&hide_border=true" alt="programmerNizam"/></td>
     </tr>
   </table>
 </p>
