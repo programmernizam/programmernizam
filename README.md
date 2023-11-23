@@ -4,7 +4,7 @@
 <h3 align="left">Stay With Me:</h3>
 <p align="left">
   <a target="blank" href="https://www.linkedin.com/in/programmernizam/">
-  <img alt="Static Badge" src="https://img.shields.io/badge/LINKEDIN-0A66C2?logo=LINKEDIN" alt="linkedin_logo" style="width:250px" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/LINKEDIN-0A66C2?logo=LINKEDIN" alt="linkedin_logo" style="width:250px; height:60px" />
   </a>
   <a target="blank" href="https://www.facebook.com/programmerNizam1">
   <img alt="Static Badge" src="https://img.shields.io/badge/FACEBOOK-1877F2?logo=facebook" alt="facebook_logo" style="width:250px"  />
