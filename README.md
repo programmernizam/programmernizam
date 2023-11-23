@@ -39,6 +39,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/REDUX-%23764ABC?style=for-the-badge&logo=REDUX&logoColor=%23fff" alt="redux_logo">
   <img alt="Static Badge" src="https://img.shields.io/badge/NODE%20JS-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=%23fff" alt="node_logo">
   <img alt="Static Badge" src="https://img.shields.io/badge/EXPRESS%20JS-%23000000?style=for-the-badge&logo=EXPRESS&logoColor=%23fff" alt="express_logo">
+  <img alt="Static Badge" src="https://img.shields.io/badge/MONGODB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=%23fff" alt="mongodb_logo">
 
 </p>
 
