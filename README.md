@@ -4,16 +4,16 @@
 <h3 align="left">Stay With Me:</h3>
 <p align="left">
   <a target="blank" href="https://www.linkedin.com/in/programmernizam/">
-  <img alt="Static Badge" src="https://img.shields.io/badge/LINKEDIN-%230A66C2?style=for-the-badge&logo=LINKEDIN" alt="linkedin_logo" style="width:150px;height:40px">
+  <img alt="Static Badge" src="https://img.shields.io/badge/LINKEDIN-%230A66C2?style=for-the-badge&logo=LINKEDIN" alt="linkedin_logo" style="width:150px;height:35px">
   </a>
   <a target="blank" href="https://www.facebook.com/programmerNizam1">
-  <img alt="Static Badge" src="https://img.shields.io/badge/FACEBOOK-%230866FF?style=for-the-badge&logo=FACEBOOK" alt="facebook_logo" style="width:150px;height:40px">
+  <img alt="Static Badge" src="https://img.shields.io/badge/FACEBOOK-%230866FF?style=for-the-badge&logo=FACEBOOK" alt="facebook_logo" style="width:150px;height:35px">
   </a>
   <a target="blank" href="https://twitter.com/programmerNizam">
-  <img alt="Static Badge" src="https://img.shields.io/badge/TWITTER-%231D9BF0?style=for-the-badge&logo=TWITTER&logoColor=%23FFF" alt="twitter_logo" style="width:150px;height:40px">
+  <img alt="Static Badge" src="https://img.shields.io/badge/TWITTER-%231D9BF0?style=for-the-badge&logo=TWITTER&logoColor=%23FFF" alt="twitter_logo" style="width:150px;height:35px">
   </a>
   <a target="blank" href="https://www.instagram.com/programmernizam/">
-  <img alt="Static Badge" src="https://img.shields.io/badge/INSTAGRAM-%23E4405F?style=for-the-badge&logo=INSTAGRAM&logoColor=%23FFF" alt="instagram_logo" style="width:150px;height:40px">
+  <img alt="Static Badge" src="https://img.shields.io/badge/INSTAGRAM-%23E4405F?style=for-the-badge&logo=INSTAGRAM&logoColor=%23FFF" alt="instagram_logo" style="width:150px;height:35px">
   </a>
 </p>
 
