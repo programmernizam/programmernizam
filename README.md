@@ -40,9 +40,9 @@
 
 <h3 align="left">:chart_with_upwards_trend: Current Stats</h3>
 
-<p align="left">
-  <img alt="progmamun :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmernizam&langs_count=12&theme=blue-green&layout=compact&hide=html,CSS,SCSS">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=programmernizam&theme=blue-green&hide_border=true"></td>
+<p align="center">
+  <img alt="programmerNizam" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmernizam&langs_count=12&theme=blue-green&layout=compact&hide=html,CSS,SCSS">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=programmernizam&theme=blue-green&hide_border=true" alt="programmerNizam"/>
 </p>
 
 
