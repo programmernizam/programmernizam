@@ -28,8 +28,8 @@
 <h3 align="left">:computer: Technologies that I know</h3>
 <br/>
 <p align="left">
-<img alt="Static Badge" src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23fff" alt="html_logo" style="width:100px"/>
-<img src="https://i.ibb.co/pvVvrJ0/css.png" alt="css_logo"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23fff" alt="html_logo"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=%23fff" alt="css_logo">
 <img src="https://i.ibb.co/cJSjQ4b/Java-Script.png" alt="javascript_logo"/>
 <img src="https://i.ibb.co/j6kmtND/Bootsrap.png" alt="bootstrap_logo"/>
 <img src="https://i.ibb.co/Cv5J0c3/tailwind.png" alt="tailwind_logo"/>
