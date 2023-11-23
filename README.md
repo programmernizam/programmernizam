@@ -40,8 +40,15 @@
 
 <h3 align="center">:chart_with_upwards_trend: Current Stats</h3>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=programmernizam&background=0D1117&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" alt="programmernizam" />
-<img src="https://github-readme-stats.vercel.app/api?programmernizam=anuraghazra" alt="programmernizam"/>
+<p align="center">
+   <table>
+       <tr>
+       <td colspan="2"><img alt="progmamun :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmernizam&langs_count=12&theme=blue-green&layout=compact&hide=html,CSS,SCSS"></td>
+     </tr> 
+     <tr>
+        <td colspan="2" align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=programmernizam&theme=blue-green&hide_border=true"></td>
+     </tr>
+   </table>
 </p>
 
 
