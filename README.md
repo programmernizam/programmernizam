@@ -40,6 +40,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/NODE%20JS-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=%23fff" alt="node_logo">
   <img alt="Static Badge" src="https://img.shields.io/badge/EXPRESS%20JS-%23000000?style=for-the-badge&logo=EXPRESS&logoColor=%23fff" alt="express_logo">
   <img alt="Static Badge" src="https://img.shields.io/badge/MONGODB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=%23fff" alt="mongodb_logo">
+  <img alt="Static Badge" src="https://img.shields.io/badge/WORDPRESS-%2321759B?style=for-the-badge&logo=WORDPRESS&logoColor=%23fff" alt="wordpress_logo">
 
 </p>
 
