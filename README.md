@@ -17,7 +17,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on MERN Stack Project
+- 🔭 I’m currently working on the MERN Stack Projects
 
 - 🌱 I’m currently learning **Advance MERN Stack**
 
