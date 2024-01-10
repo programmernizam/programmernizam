@@ -54,7 +54,7 @@
 <p align="center">
   <table>
     <tr>
-      <td><img alt="programmerNizam" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmernizam&langs_count=12&theme=holi&layout=compact"></td>
+      <td><img alt="programmerNizam" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmernizam&langs_count=12&layout=compact"></td>
       <td><img src="https://github-readme-streak-stats.herokuapp.com?user=programmernizam&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="programmerNizam"/></td>
     </tr>
   </table>
