@@ -55,7 +55,7 @@
   <table>
     <tr>
       <td><img alt="programmerNizam" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmernizam&langs_count=12&theme=github_dark&layout=compact"></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com?user=programmernizam&theme=radical" alt="programmerNizam"/></td>
+      <td>[![GitHub Streak](https://streak-stats.demolab.com?user=programmernizam&theme=react&hide_border=true)](https://git.io/streak-stats)</td>
     </tr>
   </table>
 </p>
