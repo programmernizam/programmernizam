@@ -1,6 +1,6 @@
 <img src="https://i.ibb.co/r0D1V30/github-banner.jpg" alt="github-banner" border="0">
 <h1 align="left">Hi 👋, I'm MD. Nizam Uddin</h1>
-<p>Passionate MERN stack developer & WordPress expert with expertise in HTML, CSS, JAVASCRIPT, BOOTSTRAP, TAILWINDCSS, REACT JS, Redux, Next Js, NODE JS, EXPRESS JS, MongoDB, REDUX, WORDPRESS, ELEMENTOR & CROCOBLOCK. Always eager to learn and take on new challenges in the tech world. </p>
+<p>Passionate MERN stack developer & WordPress expert with expertise in HTML, CSS, JAVASCRIPT, BOOTSTRAP, TAILWINDCSS, REACT JS, Redux, Next Js, NODE JS, EXPRESS JS, MongoDB, REDUX, WORDPRESS, ELEMENTOR & CROCOBLOCK. Always eager to learn and take on new challenges in the tech world.  </p>
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
   <a target="blank" href="https://www.linkedin.com/in/programmernizam/">
