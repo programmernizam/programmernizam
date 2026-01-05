@@ -3,16 +3,16 @@
 <p>Passionate MERN stack developer & WordPress expert with expertise in HTML, CSS, JAVASCRIPT, BOOTSTRAP, TAILWINDCSS, REACT JS, Redux, Next Js, NODE JS, EXPRESS JS, MongoDB, REDUX, WORDPRESS, ELEMENTOR & CROCOBLOCK. Always eager to learn and take on new challenges in the tech world.</p>
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
-  <a target="blank" href="https://www.linkedin.com/in/programmernizam/">
+  <a target="blank" href="https://www.linkedin.com/in/devwithnizam/">
   <img alt="Static Badge" src="https://img.shields.io/badge/LINKEDIN-%230A66C2?style=for-the-badge&logo=LINKEDIN" alt="linkedin_logo" style="width:150px;height:35px">
   </a>
-  <a target="blank" href="https://www.facebook.com/programmerNizam1">
+  <a target="blank" href="https://www.facebook.com/devwithnizam">
   <img alt="Static Badge" src="https://img.shields.io/badge/FACEBOOK-%230866FF?style=for-the-badge&logo=FACEBOOK" alt="facebook_logo" style="width:150px;height:35px">
   </a>
-  <a target="blank" href="https://twitter.com/programmerNizam">
+  <a target="blank" href="https://twitter.com/devwithnizam">
   <img alt="Static Badge" src="https://img.shields.io/badge/TWITTER-%231D9BF0?style=for-the-badge&logo=TWITTER&logoColor=%23FFF" alt="twitter_logo" style="width:150px;height:35px">
   </a>
-  <a target="blank" href="https://www.instagram.com/programmernizam/">
+  <a target="blank" href="https://www.instagram.com/devwithnizam/">
   <img alt="Static Badge" src="https://img.shields.io/badge/INSTAGRAM-%23E4405F?style=for-the-badge&logo=INSTAGRAM&logoColor=%23FFF" alt="instagram_logo" style="width:150px;height:35px">
   </a>
 </p>
@@ -21,9 +21,9 @@
 
 - 🌱 I’m currently learning **Advance MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/programmernizam?tab=repositories](https://github.com/programmernizam?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/programmernizam?tab=repositories](https://github.com/devwithnizam?tab=repositories)
 
-- 📫 How to reach me **mdnizam12109@gmail.com or info.mdnizamuddin1@gmail.com**
+- 📫 How to reach me **info.mdnizamuddin@gmail.com or info.mdnizamuddin1@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1yjURwkV-6KZodUEyYxuv7E9NvqU8_pHg/view?usp=share_link](https://drive.google.com/file/d/1yjURwkV-6KZodUEyYxuv7E9NvqU8_pHg/view?usp=share_link)
 
@@ -54,8 +54,8 @@
 <p align="center">
   <table>
     <tr>
-      <td><img alt="programmerNizam" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmernizam&langs_count=12&theme=github_dark&layout=compact&hide_border=true"></td>
-      <td><img alt="progNizam" src="https://streak-stats.demolab.com?user=programmernizam&theme=github_dark&hide_border=true"></td>
+      <td><img alt="devwithnizam" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devwithnizam&langs_count=12&theme=github_dark&layout=compact&hide_border=true"></td>
+      <td><img alt="progNizam" src="https://streak-stats.demolab.com?user=devwithnizam&theme=github_dark&hide_border=true"></td>
     </tr>
   </table>
 </p>
