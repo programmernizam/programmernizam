@@ -54,7 +54,7 @@
 <p align="center">
   <table>
     <tr>
-      <td><img alt="devwithnizam" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devwithnizam&langs_count=12&theme=github_dark&layout=compact&hide_border=true"></td>
+      <td>[![MD NIZAM UDDIN](https://awesome-github-stats.azurewebsites.net/user-stats/devwithnizam?cardType=level-alternate&theme=jolly&preferLogin=true)](https://git.io/awesome-stats-card)</td>
       <td><img alt="devwithnizam" src="https://streak-stats.demolab.com?user=devwithnizam&theme=github_dark&hide_border=true"></td>
     </tr>
   </table>
