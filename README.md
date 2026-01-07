@@ -55,7 +55,7 @@
   <table>
     <tr>
       <td><img alt="devwithnizam" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devwithnizam&langs_count=12&theme=github_dark&layout=compact&hide_border=true"></td>
-      <td><img alt="progNizam" src="https://streak-stats.demolab.com?user=devwithnizam&theme=github_dark&hide_border=true"></td>
+      <td><img alt="devwithnizam" src="https://streak-stats.demolab.com?user=devwithnizam&theme=github_dark&hide_border=true"></td>
     </tr>
   </table>
 </p>
