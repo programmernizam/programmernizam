@@ -55,7 +55,7 @@
   <table>
     <tr>
       <td><img  alt="devwithnizam's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/devwithnizam?cardType=level&theme=github-dark&fontFamily=Poppins&preferLogin=true" /></td>
-      <td><img alt="devwithnizam" src="https://streak-stats.demolab.com?user=devwithnizam&theme=github_dark&hide_border=true"></td>
+      <td><img alt="devwithnizam" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devwithnizam&theme=github_dark"></td>
     </tr>
   </table>
 </p>
